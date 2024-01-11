@@ -1,0 +1,15 @@
+.nav{
+    padding-left: 20px;
+    border: thin inset red;
+}
+
+.navoption{
+    
+    margin: 20px;
+}
+
+.pagelayout{
+    width: 350px;
+    height: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
